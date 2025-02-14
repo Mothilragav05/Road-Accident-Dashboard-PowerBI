@@ -49,13 +49,16 @@
 
 4. Accident & Vehicle Counts  
    • Total Accidents by Day = COUNTROWS('Table1')  
-   • Total Vehicles = COUNTROWS('Table1')  
-- If you encounter any bugs (e.g., the dashboard produces undesired results), please open an issue [here](https://github.com/username/repository-name/issues) and include:
+   • Total Vehicles = COUNTROWS('Table1')
+## Bug / Feature Request   
+- If you encounter any bugs (e.g., the dashboard produces undesired results), please open an issue [here](https://github.com/Mothilragav05/Road-Accident-Dashboard-PowerBI/issues/new) and include:
   - Your search query
   - The expected result
 
-- If you'd like to request a new feature, feel free to open an issue [here](https://github.com/username/repository-name/issues). Please include:
+- If you'd like to request a new feature, feel free to open an issue [here](https://github.com/Mothilragav05/Road-Accident-Dashboard-PowerBI/issues/new). Please include:
   - Sample queries
   - The corresponding expected results
-
+## Authors
+[Mothilragav ](https://github.com/Mothilragav05)
+[Follow Isaac Mwendwa on GitHub](https://github.com/Mothilragav05)
 
