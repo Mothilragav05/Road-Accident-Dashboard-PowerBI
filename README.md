@@ -47,7 +47,8 @@
 3. Date Formatting  
    • Short number = FORMAT('Table1'[Accident Date], "mmm")  
 
-4.Accident & Vehicle Counts
-   • Total Accidents by Day = COUNTROWS('Table1')
-   • Total Vehicles = COUNTROWS('Table1')
+4. Accident & Vehicle Counts  
+   • Total Accidents by Day = COUNTROWS('Table1')  
+   • Total Vehicles = COUNTROWS('Table1')  
+
 
