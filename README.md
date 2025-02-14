@@ -36,18 +36,18 @@
 
 •Open Dashboard report file (Road Accidents Dashboard.pbix) in Power BI Desktop, to access the dashboard's interactivity
 ## DAX Formulas Used in Measures
-1.Average Speed Limit Calculation
-  •AvgSpeedLimit = AVERAGE(Table1[Speed_limit])
-  
-2.Accident Severity Counts
-  •Fatal = CALCULATE(COUNT('Table1'[Accident_Severity]), 'Table1'[Accident_Severity] = "Fatal")
-  •Serious = CALCULATE(COUNT('Table1'[Accident_Severity]), 'Table1'[Accident_Severity] = "Serious")
-  •Slight = CALCULATE(COUNT('Table1'[Accident_Severity]), 'Table1'[Accident_Severity] = "Slight")
-  
-3.Date Formatting
-  •Short number = FORMAT('Table1'[Accident Date],"mmm")
+1. Average Speed Limit Calculation  
+   • AvgSpeedLimit = AVERAGE(Table1[Speed_limit])  
+
+2. Accident Severity Counts  
+   • Fatal = CALCULATE(COUNT('Table1'[Accident_Severity]), 'Table1'[Accident_Severity] = "Fatal")  
+   • Serious = CALCULATE(COUNT('Table1'[Accident_Severity]), 'Table1'[Accident_Severity] = "Serious")  
+   • Slight = CALCULATE(COUNT('Table1'[Accident_Severity]), 'Table1'[Accident_Severity] = "Slight")  
+
+3. Date Formatting  
+   • Short number = FORMAT('Table1'[Accident Date], "mmm")  
 
 4.Accident & Vehicle Counts
-  •Total Accidents by Day = COUNTROWS('Table1')
-  •Total Vehicles = COUNTROWS('Table1')
+   • Total Accidents by Day = COUNTROWS('Table1')
+   • Total Vehicles = COUNTROWS('Table1')
 
