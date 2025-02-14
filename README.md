@@ -15,10 +15,16 @@
 
 ## Dashboard Requirements
 •Primary KPIs - Total Casualties by Accident Severity (Fatal, Serious, Slight) for the Current Year and YoY Growth
+
 •Monthly Trend showing comparison of Casualties for Current Year and Previous Year
+
 •Current Year Casualties by Area/Location & Day/Night
+
 •Casualties by Urban vs. Rural Areas 
+
 •Weather Condition (All, Rain, Fog, Snow, Clear, etc.)
+
 •Road Surface Condition (All, Dry, Wet, Icy, etc.)
+
 •Weekly accident frequency 
 
