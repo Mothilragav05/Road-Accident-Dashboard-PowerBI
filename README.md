@@ -26,5 +26,13 @@
 
 •Road Surface Condition (All, Dry, Wet, Icy, etc.)
 
-•Weekly accident frequency 
+•Weekly accident frequency
+## Installation / Usage
+•Install Power BI Desktop from the [Official Power BI Download Site](https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+
+•Download data files from link given in Introduction
+
+•Download this repository to your local machine
+
+•Open Dashboard report file (Road Accidents Dashboard.pbix) in Power BI Desktop, to access the dashboard's interactivity
 
