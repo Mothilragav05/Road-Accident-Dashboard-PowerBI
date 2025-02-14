@@ -59,6 +59,8 @@
   - Sample queries
   - The corresponding expected results
 ## Authors
-[Mothilragav ](https://github.com/Mothilragav05)
-[Follow Isaac Mwendwa on GitHub](https://github.com/Mothilragav05)
+[Mothilragav](https://github.com/Mothilragav05)
+
+
+
 
